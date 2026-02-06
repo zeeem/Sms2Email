@@ -29,7 +29,7 @@ Before running the app, you must configure your Gmail credentials.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/Sms2Email.git
+    git clone https://github.com/zeeem/Sms2Email.git
     ```
 2.  **Open in Android Studio:**
     Open the project folder in Android Studio.
